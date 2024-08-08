@@ -61,9 +61,7 @@ Steps:
 
 This end-to-end Jenkins pipeline will automate the entire CI/CD process for a Java application, from code checkout to production deployment, using popular tools like SonarQube, Argo CD, Helm, and Kubernetes.
 
-## Installation on EC2 Instance
-
-![Screenshot 2023-02-01 at 5 46 14 PM](https://user-images.githubusercontent.com/43399466/216040281-6c8b89c3-8c22-4620-ad1c-8edd78eb31ae.png)
+## Installation Commands
 
 Install Jenkins, configure Docker as agent, set up cicd, deploy applications to k8s and much more.
 
